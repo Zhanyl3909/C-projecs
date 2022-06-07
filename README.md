@@ -1,2 +1,2 @@
 # C-projecs
-Easy c programming projects
+Easy C programming projects
